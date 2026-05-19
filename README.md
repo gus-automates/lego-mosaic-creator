@@ -1,4 +1,4 @@
-# LEGO Mosaic Converter
+# Lego Mosaic Creator
 
 A desktop GUI application that converts any photo into a buildable LEGO mosaic â€” with live controls, colour editing, real-world size calculations, and a BrickLink-ready shopping list.
 
@@ -29,7 +29,7 @@ A desktop GUI application that converts any photo into a buildable LEGO mosaic â
 
 | Original photo | Mosaic result |
 |---|---|
-| ![Sunflower photo](screenshots/mosaic-import.jpg) | ![Exported mosaic PNG](screenshots/mosaic-result.png) |
+| <img src="screenshots/mosaic-import.jpg" width="400"> | <img src="screenshots/mosaic-result.png" width="400"> |
 
 ### Colour editor
 
